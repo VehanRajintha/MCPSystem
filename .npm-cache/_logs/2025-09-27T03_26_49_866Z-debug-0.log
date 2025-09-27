@@ -1,0 +1,24 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\VEHAN\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.3.0
+2 info using node@v22.15.0
+3 silly config load:file:C:\Users\VEHAN\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\VEHAN\Downloads\punchi-car-maintenance\.npmrc
+5 silly config load:file:C:\Users\VEHAN\.npmrc
+6 silly config load:file:C:\Users\VEHAN\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:C:\Users\VEHAN\Downloads\punchi-car-maintenance\.npm-cache\_logs\2025-09-27T03_26_49_866Z-
+10 verbose logfile C:\Users\VEHAN\Downloads\punchi-car-maintenance\.npm-cache\_logs\2025-09-27T03_26_49_866Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/npm 865ms
+13 verbose cwd C:\Users\VEHAN\Downloads\punchi-car-maintenance
+14 verbose os Windows_NT 10.0.26100
+15 verbose node v22.15.0
+16 verbose npm  v11.3.0
+17 notice
+17 notice New [33mminor[39m version of npm available! [33m11.3.0[39m -> [34m11.6.1[39m
+17 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.6.1[39m
+17 notice To update run: [4mnpm install -g npm@11.6.1[24m
+17 notice  { force: true, [Symbol(proc-log.meta)]: true }
+18 verbose exit 0
+19 info ok
